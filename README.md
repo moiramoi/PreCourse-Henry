@@ -1,2 +1,1 @@
-# PreCourse-Henry
-Este es un repositorio de prueba del modulo dos de henry
+Este proyecto es una prueba de como crear un repositorio. 
